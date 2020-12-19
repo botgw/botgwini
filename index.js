@@ -24,7 +24,7 @@ const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Jul
 const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
-    A187: '👾Bothaikal👾',
+    A187: '👾HAIKAL👾',
     instagram: 'https://instagram.com/fanbaseah.ig',
     nomer: 'wa.me/6285722553839',
     aktif: '24 JAM',
